@@ -10,3 +10,8 @@ Isso representa uma perda de milhões para a empresa.
 O que a empresa precisa fazer para resolver isso?
 Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
+### Resolução:
+
+Utilizando a biblioteca Pandas, exluiremos dados inúteis e nulos. Depois desse tratamento de dados, faremos uma análise de dados, através da biblioteca Plotly, e dissertaremos sobre as conclusões e ações para resolução dos problemas.
+
+####   O passo a passo pode ser lido junto ao código, no arquivo .ipynb
